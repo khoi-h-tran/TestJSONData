@@ -1,9 +1,1 @@
-{
-        "pay": {
-            
-				"Holloway":40000,
-				"Ortega":50000,
-				"McGregor":1000000,
-				"Ngonnou":500000
-				}
-}
+{"pay": {"Holloway":40000,"Ortega":50000,"McGregor":1000000,"Ngonnou":500000}}
