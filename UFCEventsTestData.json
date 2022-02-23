@@ -1,7 +1,7 @@
 {
-  "eventName": "string;",
-  "eventDate": "Date;",
-  "eventVenue": "string;",
+  "eventName": "UFC 271",
+  "eventDate": "2022-02-12",
+  "eventVenue": "Toyota Center",
   "eventCards": [
     {
       "cardType": "Main Card",
