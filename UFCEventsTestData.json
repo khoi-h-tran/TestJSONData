@@ -6,9 +6,9 @@
 		"eventCards": [
 			{
 				"cardType": "Main Card",
+				"eventTime": "2022-02-12T03:00:00.000Z",
 				"cardEvents": [
 					{
-						"eventTime": "2022-02-12T10:00:00.000Z",
 						"eventWeightClass": "Middleweight",
 						"eventFighter1": {
 							"fighterName": "Israel Adesanya",
@@ -22,7 +22,6 @@
 						}
 					},
 					{
-						"eventTime": "2022-02-12T10:00:00.000Z",
 						"eventWeightClass": "Heavyweight",
 						"eventFighter1": {
 							"fighterName": "Derrick Lewis",
@@ -39,9 +38,9 @@
 			},
 			{
 				"cardType": "Preliminary Card",
+				"eventTime": "2022-02-12T01:00:00.000Z",
 				"cardEvents": [
 					{
-						"eventTime": "2022-02-12T80:00:00.000Z",
 						"eventWeightClass": "Heavyweight",
 						"eventFighter1": {
 							"fighterName": "Andrei Arlovski",
@@ -55,7 +54,6 @@
 						}
 					},
 					{
-						"eventTime": "2022-02-12T80:00:00.000Z",
 						"eventWeightClass": "Flyweight",
 						"eventFighter1": {
 							"fighterName": "Roxanne Modaferri",
@@ -72,9 +70,9 @@
 			},
 			{
 				"cardType": "Early Prelims",
+				"eventTime": "2022-02-12T11:00:00.000Z",
 				"cardEvents": [
 					{
-						"eventTime": "2022-02-12T60:00:00.000Z",
 						"eventWeightClass": "Bantamweight",
 						"eventFighter1": {
 							"fighterName": "Mana Martinez",
@@ -88,7 +86,6 @@
 						}
 					},
 					{
-						"eventTime": "2022-02-12T60:00:00.000Z",
 						"eventWeightClass": "Lightweight",
 						"eventFighter1": {
 							"fighterName": "Alexander Hernandez",
@@ -112,9 +109,9 @@
 		"eventCards": [
 			{
 				"cardType": "Main Card",
+				"eventTime": "2022-03-05T03:00:00.000Z",
 				"cardEvents": [
 					{
-						"eventTime": "2022-03-05T10:00:00.000Z",
 						"eventWeightClass": "Welterweight",
 						"eventFighter1": {
 							"fighterName": "Colby Covington",
@@ -128,7 +125,6 @@
 						}
 					},
 					{
-						"eventTime": "2022-03-05T10:00:00.000Z",
 						"eventWeightClass": "Lightweight",
 						"eventFighter1": {
 							"fighterName": "Rafaeldos Anjos",
@@ -145,9 +141,9 @@
 			},
 			{
 				"cardType": "Preliminary Card",
+				"eventTime": "2022-03-05T01:00:00.000Z",
 				"cardEvents": [
 					{
-						"eventTime": "2022-03-05T80:00:00.000Z",
 						"eventWeightClass": "Lightweight",
 						"eventFighter1": {
 							"fighterName": "Jalin Turner",
@@ -161,7 +157,6 @@
 						}
 					},
 					{
-						"eventTime": "2022-03-05T80:00:00.000Z",
 						"eventWeightClass": "Strawweight",
 						"eventFighter1": {
 							"fighterName": "Marina Rodriguez",
