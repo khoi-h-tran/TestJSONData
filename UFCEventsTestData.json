@@ -6,7 +6,7 @@
 		"eventCards": [
 			{
 				"cardType": "Main Card",
-				"eventTime": "2022-02-12T20:00:00",
+				"eventTime": "2022-02-12T22:00:00",
 				"cardEvents": [
 					{
 						"eventWeightClass": "Middleweight",
@@ -38,7 +38,7 @@
 			},
 			{
 				"cardType": "Preliminary Card",
-				"eventTime": "2022-02-12T18:00:00",
+				"eventTime": "2022-02-12T20:00:00",
 				"cardEvents": [
 					{
 						"eventWeightClass": "Heavyweight",
@@ -70,7 +70,7 @@
 			},
 			{
 				"cardType": "Early Prelims",
-				"eventTime": "2022-02-12T16:00:00",
+				"eventTime": "2022-02-12T18:00:00",
 				"cardEvents": [
 					{
 						"eventWeightClass": "Bantamweight",
