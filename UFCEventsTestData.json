@@ -6,7 +6,7 @@
 		"eventCards": [
 			{
 				"cardType": "Main Card",
-				"eventTime": "2022-02-12T03:00:00",
+				"eventTime": "2022-02-12T04:00:00",
 				"cardEvents": [
 					{
 						"eventWeightClass": "Middleweight",
@@ -38,7 +38,7 @@
 			},
 			{
 				"cardType": "Preliminary Card",
-				"eventTime": "2022-02-12T01:00:00",
+				"eventTime": "2022-02-12T02:00:00",
 				"cardEvents": [
 					{
 						"eventWeightClass": "Heavyweight",
@@ -70,7 +70,7 @@
 			},
 			{
 				"cardType": "Early Prelims",
-				"eventTime": "2022-02-12T11:00+01:00",
+				"eventTime": "2022-02-12T00:00:00",
 				"cardEvents": [
 					{
 						"eventWeightClass": "Bantamweight",
@@ -109,7 +109,7 @@
 		"eventCards": [
 			{
 				"cardType": "Main Card",
-				"eventTime": "2022-03-05T03:00:00",
+				"eventTime": "2022-03-05T04:00:00",
 				"cardEvents": [
 					{
 						"eventWeightClass": "Welterweight",
@@ -141,7 +141,7 @@
 			},
 			{
 				"cardType": "Preliminary Card",
-				"eventTime": "2022-03-05T01:00:00",
+				"eventTime": "2022-03-05T02:00:00",
 				"cardEvents": [
 					{
 						"eventWeightClass": "Lightweight",
