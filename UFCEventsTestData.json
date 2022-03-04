@@ -10,6 +10,7 @@
 				"cardEvents": [
 					{
 						"eventWeightClass": "Middleweight",
+						"selectedFighter": "Robert Wittaker",
 						"eventFighter1": {
 							"fighterName": "Israel Adesanya",
 							"fighterRecord": "21-1-0",
@@ -23,6 +24,7 @@
 					},
 					{
 						"eventWeightClass": "Heavyweight",
+						"selectedFighter": "",
 						"eventFighter1": {
 							"fighterName": "Derrick Lewis",
 							"fighterRecord": "26-8-0",
@@ -42,6 +44,7 @@
 				"cardEvents": [
 					{
 						"eventWeightClass": "Heavyweight",
+						"selectedFighter": "",
 						"eventFighter1": {
 							"fighterName": "Andrei Arlovski",
 							"fighterRecord": "32-20-0",
@@ -55,6 +58,7 @@
 					},
 					{
 						"eventWeightClass": "Flyweight",
+						"selectedFighter": "Roxanne Modaferri",
 						"eventFighter1": {
 							"fighterName": "Roxanne Modaferri",
 							"fighterRecord": "25-20-0",
@@ -74,6 +78,7 @@
 				"cardEvents": [
 					{
 						"eventWeightClass": "Bantamweight",
+						"selectedFighter": "",
 						"eventFighter1": {
 							"fighterName": "Mana Martinez",
 							"fighterRecord": "9-2-0",
@@ -87,6 +92,7 @@
 					},
 					{
 						"eventWeightClass": "Lightweight",
+						"selectedFighter": "",
 						"eventFighter1": {
 							"fighterName": "Alexander Hernandez",
 							"fighterRecord": "13-4-0",
@@ -113,6 +119,7 @@
 				"cardEvents": [
 					{
 						"eventWeightClass": "Welterweight",
+						"selectedFighter": "",
 						"eventFighter1": {
 							"fighterName": "Colby Covington",
 							"fighterRecord": "16-3-0",
@@ -126,6 +133,7 @@
 					},
 					{
 						"eventWeightClass": "Lightweight",
+						"selectedFighter": "",
 						"eventFighter1": {
 							"fighterName": "Rafaeldos Anjos",
 							"fighterRecord": "30-13-0",
@@ -145,6 +153,7 @@
 				"cardEvents": [
 					{
 						"eventWeightClass": "Lightweight",
+						"selectedFighter": "",
 						"eventFighter1": {
 							"fighterName": "Jalin Turner",
 							"fighterRecord": "11-5-0",
@@ -158,6 +167,7 @@
 					},
 					{
 						"eventWeightClass": "Strawweight",
+						"selectedFighter": "",
 						"eventFighter1": {
 							"fighterName": "Marina Rodriguez",
 							"fighterRecord": "15-1-2",
