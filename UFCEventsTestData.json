@@ -10,7 +10,7 @@
 				"cardEvents": [
 					{
 						"eventWeightClass": "Middleweight",
-						"selectedFighter": "Robert Wittaker",
+						"selectedFighter": "",
 						"eventFighter1": {
 							"fighterName": "Israel Adesanya",
 							"fighterRecord": "21-1-0",
@@ -58,7 +58,7 @@
 					},
 					{
 						"eventWeightClass": "Flyweight",
-						"selectedFighter": "Roxanne Modaferri",
+						"selectedFighter": "",
 						"eventFighter1": {
 							"fighterName": "Roxanne Modaferri",
 							"fighterRecord": "25-20-0",
